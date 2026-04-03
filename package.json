@@ -1,0 +1,25 @@
+{
+  "name": "back-ft-2026",
+  "version": "1.0.0",
+  "description": "back friendly-trips-2026",
+  "homepage": "https://github.com/Joseg789/back-FT-2026#readme",
+  "bugs": {
+    "url": "https://github.com/Joseg789/back-FT-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseg789/back-FT-2026.git"
+  },
+  "license": "ISC",
+  "author": "jose sanchez / david fernandez / juanpablo gisel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.0"
+  }
+}
